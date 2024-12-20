@@ -1,2 +1,2 @@
 # Distributed-data-analysis
-Group project on that analyzes the housing situation in USA
+Group project that analyzes the housing situation in USA
